@@ -7,7 +7,7 @@ comments: true
 imglink: http://hosseinkarami.com/assets/img/post/typewriter.jpg
 imgauthor: http://florianklauer.de/
 imgauthorname: Florian Klauer
-category: IT
+category: general
 tags: [windows]
 ---
 ![alt text]({{site.url}}/assets/img/post2.1.jpg)
