@@ -127,6 +127,6 @@ layout: default
       <h4> خوش آمدید</h4>
       <h6>
         <a href="/blog">وبلاگ</a> - 
-        <a href="https://github.com/{{ site.github }}">گیت هاب</a>
+        {% if site.github %}<a href="https://github.com/{{ site.github }}">گیت هاب</a> {% endif %}
       </h6>
 </div>
