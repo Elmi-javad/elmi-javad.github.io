@@ -2,7 +2,7 @@
 layout: post
 title:  "۴ نکته ساده برای بهتر پاسخ‌ دادن به ایمیل‌ها در جیمیل "
 permalink: 
-parsidate: جمعه ۱5 آبان ۱۳۹4
+parsidate: جمعه 15 آبان 94
 comments: true
 imglink: http://hosseinkarami.com/assets/img/post/typewriter.jpg
 imgauthor: http://florianklauer.de/
